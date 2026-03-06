@@ -1,0 +1,4 @@
+# The capitalize() method converts the first character to uppercase and the rest to lowercase
+
+str = "i am studing at Mehran university"
+print(str.capitalize())
