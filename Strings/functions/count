@@ -1,6 +1,6 @@
 # The count() method returns the number of times a substring appears in the string
 
-str="I am studing at Mehran university and i am learning python"
+str = "I am studing at Mehran university and i am learning python"
 
 print(str.count("a"))
 print(str.count("am"))

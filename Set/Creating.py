@@ -1,5 +1,5 @@
 # Define a set with mixed data types
-collection={"Sanjna",66,"Mehran",1,2,3}
+collection = {"Sanjna",66,"Mehran",1,2,3}
 
 # Print the set (order may vary, as sets are unordered)
 print(collection)

@@ -1,5 +1,5 @@
 # Create an empty set
-Addition=set()
+Addition = set()
 
 # Add elements to the set
 Addition.add(1)

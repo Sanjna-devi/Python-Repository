@@ -1,6 +1,6 @@
 # Demonstrates how to extract parts of a string using slicing
 
-str="University"
+str = "University"
 
 print(str[3:4]) 
 print(str[:4]) #[0:4]
